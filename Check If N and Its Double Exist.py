@@ -1,7 +1,8 @@
-Check If N and Its Double Exist
+1346.Check If N and Its Double Exist
 
 Solution 1:
-
+-----------
+    
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         
